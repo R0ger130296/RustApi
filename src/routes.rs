@@ -32,9 +32,9 @@ pub fn show(conn: DbConn, id: i32) -> Json<Value> {
     }))
 }
 
-#[put("/tareas/<id>", format = "application/json", data = "<book>")]
-pub fn update(conn: DbConn, id: i32, book: Json<NewTarea>) -> Json<Value> {
-    let status = if Tarea::update_by_id(id, &conn, book.into_inner()) {
+#[put("/tareas/<id>", format = "application/json", data = "<tarea>")]
+pub fn update(conn: DbConn, id: i32, tarea: Json<NewTarea>) -> Json<Value> {
+    let status = if Tarea::update_by_id(id, &conn, tarea.into_inner()) {
         200
     } else {
         404
