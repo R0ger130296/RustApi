@@ -1,0 +1,14 @@
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/base64-3fa2d405d39c78db.rmeta: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs
+
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/base64-3fa2d405d39c78db.d: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs
+
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs:

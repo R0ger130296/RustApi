@@ -1,0 +1,11 @@
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/generic_array-800ec51d48d3fc12.rmeta: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs
+
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/generic_array-800ec51d48d3fc12.d: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs
+
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs:

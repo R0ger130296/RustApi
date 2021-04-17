@@ -1,0 +1,18 @@
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/typenum-ffd7501bfcaa052c.rmeta: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs /home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/build/typenum-f83c3ffec89a8378/out/op.rs /home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/build/typenum-f83c3ffec89a8378/out/consts.rs
+
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/typenum-ffd7501bfcaa052c.d: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs /home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/build/typenum-f83c3ffec89a8378/out/op.rs /home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/build/typenum-f83c3ffec89a8378/out/consts.rs
+
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs:
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/build/typenum-f83c3ffec89a8378/out/op.rs:
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/build/typenum-f83c3ffec89a8378/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/build/typenum-f83c3ffec89a8378/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/build/typenum-f83c3ffec89a8378/out/op.rs
