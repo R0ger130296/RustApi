@@ -1,6 +1,6 @@
 use db::Conn as DbConn;
 use rocket_contrib::json::Json;
-use super::models::{Tarea, NewTarea};
+use super::models::{Tarea, NewTarea, UpdateTarea};
 use serde_json::Value;
 
 #[get("/tareas", format = "application/json")]
@@ -33,7 +33,7 @@ pub fn show(conn: DbConn, id: i32) -> Json<Value> {
 }
 
 #[put("/tareas/<id>", format = "application/json", data = "<tarea>")]
-pub fn update(conn: DbConn, id: i32, tarea: Json<NewTarea>) -> Json<Value> {
+pub fn update(conn: DbConn, id: i32, tarea: Json<UpdateTarea>) -> Json<Value> {
     let status = if Tarea::update_by_id(id, &conn, tarea.into_inner()) {
         200
     } else {
@@ -46,7 +46,7 @@ pub fn update(conn: DbConn, id: i32, tarea: Json<NewTarea>) -> Json<Value> {
     }))
 }
 
-#[delete("/tareas/<id>")]
+#[delete("/tarea/<id>")]
 pub fn delete(id: i32, conn: DbConn) -> Json<Value> {
     let status = if Tarea::delete_by_id(id, &conn) {
         200
