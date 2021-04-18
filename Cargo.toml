@@ -11,10 +11,11 @@ r2d2-diesel = "1.0.0"
 serde = "1.0.80"
 serde_derive  = "1.0.80"
 serde_json = "1.0.32"
-cargo-watch = "7.7.0"
 rocket = "0.4.0-dev"
 rocket_cors = "0.5.0"
 [dependencies.rocket_contrib]
 version = "0.4.0-dev"
 default_features = false 
 features = [ "json", "serve"]
+[dev-dependencies]
+cargo-watch = "7.7.0"

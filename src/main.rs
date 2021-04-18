@@ -18,7 +18,6 @@ extern crate rocket_cors;
 
 
 use rocket_cors::{AllowedOrigins};
-
 use dotenv::dotenv;
 use std::env;
 use routes::*;
@@ -56,4 +55,3 @@ fn rocket() -> rocket::Rocket {
 fn main() {
     rocket().launch();
 }
-

@@ -58,4 +58,3 @@ pub fn delete(id: i32, conn: DbConn) -> Json<Value> {
         "result": null,
     }))
 }
-
