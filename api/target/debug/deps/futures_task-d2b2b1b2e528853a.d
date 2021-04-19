@@ -1,0 +1,11 @@
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/futures_task-d2b2b1b2e528853a.rmeta: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/spawn.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/future_obj.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/noop_waker.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/arc_wake.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/waker.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/waker_ref.rs
+
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/futures_task-d2b2b1b2e528853a.d: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/spawn.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/future_obj.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/noop_waker.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/arc_wake.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/waker.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/waker_ref.rs
+
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/lib.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/spawn.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/future_obj.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/noop_waker.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/arc_wake.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/waker.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.14/src/waker_ref.rs:

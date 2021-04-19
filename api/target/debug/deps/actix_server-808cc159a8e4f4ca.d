@@ -1,0 +1,13 @@
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/actix_server-808cc159a8e4f4ca.rmeta: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/accept.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/builder.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/config.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/server.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/service.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/signals.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/socket.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/worker.rs
+
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/actix_server-808cc159a8e4f4ca.d: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/accept.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/builder.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/config.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/server.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/service.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/signals.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/socket.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/worker.rs
+
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/lib.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/accept.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/builder.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/config.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/server.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/service.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/signals.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/socket.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-server-1.0.4/src/worker.rs:

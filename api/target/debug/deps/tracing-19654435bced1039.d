@@ -1,0 +1,13 @@
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/tracing-19654435bced1039.rmeta: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/macros.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/dispatcher.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/field.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/instrument.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/level_filters.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/span.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/stdlib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/subscriber.rs
+
+/home/roger/Escritorio/RustApiToDoList/rustapi/rust_api/target/debug/deps/tracing-19654435bced1039.d: /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/lib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/macros.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/dispatcher.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/field.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/instrument.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/level_filters.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/span.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/stdlib.rs /home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/subscriber.rs
+
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/lib.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/macros.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/dispatcher.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/field.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/instrument.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/level_filters.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/span.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/stdlib.rs:
+/home/roger/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.25/src/subscriber.rs:
